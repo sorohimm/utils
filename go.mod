@@ -1,6 +1,6 @@
 module github.com/sorohimm/utils
 
-go 1.21
+go 1.21.7
 
 require (
 	github.com/caarlos0/env/v10 v10.0.0
