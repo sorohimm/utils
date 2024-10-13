@@ -1,11 +1,10 @@
-module xake/utils
+module github.com/sorohimm/utils
 
 go 1.21
 
 require (
 	github.com/caarlos0/env/v10 v10.0.0
 	github.com/go-playground/validator/v10 v10.22.1
-	github.com/google/uuid v1.6.0
 	github.com/oklog/run v1.1.0
 	github.com/stretchr/testify v1.9.0
 	go.uber.org/zap v1.27.0
