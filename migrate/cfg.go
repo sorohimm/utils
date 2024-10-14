@@ -1,8 +1,6 @@
 package migrate
 
 type Config struct {
-	Postgres struct {
-		URL    string
-		Schema string
-	}
+	URL    string
+	Schema string
 }
